@@ -131,3 +131,6 @@ build.out
 
 # Azure Project
 csx/
+
+#App settings
+appsettings.json
